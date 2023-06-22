@@ -1,7 +1,7 @@
 # avidii
 avidii is an 24x7 Online support on Instant Home Tutoring, Doubt Solving and Homework Help for CBSE, ICSE and State Board Students
 
-Avidii, an ed-tech platform founded in Switzerland, has expanded its footprint in India. The company formally launched in 2021, has now onboarded over 400 tutors across India and has achieved more than 5,000 downloads. It is currently active in four countries across the world, and aims to achieve one million users and downloads in India by the end of this year, according to an official release.  
+Avidii, an ed-tech platform founded in Switzerland, has expanded its footprint in India. The company formally launched in 2021, has now onboarded over 400 tutors across India and has achieved more than 5,000 downloads. It is currently active in four countries across the world, and aims to achieve one million users and downloads in India by the end of this year, according to an official release. 
 
 Avidii offers expert teachers for immediate, on-demand and customised learning of Mathematics, Physics, Chemistry and Biology, along with Commerce and Arts subjects, primarily for students between the ages of 11 and 18. The learning app, with features for instant connect, caters to various educational boards including the Central Board of Secondary Education (CBSE), the Indian Certificate of Secondary Examination (ICSE), and State Boards, empowering students to achieve high scores in their examinations, the release mentioned.
 
